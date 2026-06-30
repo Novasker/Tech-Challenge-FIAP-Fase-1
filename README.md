@@ -1,6 +1,6 @@
 # Tech Challenge - Análise e Otimização do Net Promoter Score (NPS)
 
-Este projeto foi desenvolvido como parte do Tech Challenge da pós-graduação em AI Scientist da FIAP. O objetivo principal é identificar quais fatores operacionais realmente influenciam a satisfação do cliente e como a empresa pode agir de forma proativa para melhorar a experiência do cliente.
+Este projeto foi desenvolvido como parte do Tech Challenge da pós-graduação em AI Scientist da FIAP. O objetivo principal é identificar quais fatores operacionais realmente influenciam a satisfação do cliente e como a empresa pode agir de forma proativa para melhorar sua experiência.
 
 ## Objetivo do Projeto
 
@@ -54,7 +54,7 @@ O projeto foi estruturado seguindo o framework **CRISP-DM**, garantindo o alinha
 ## Como Reproduzir os Resultados
 
 ### 1. Pré-requisitos
-Certifique-se de ter o Python 3.x instalado. Recomenda-se a utilização de um ambiente virtual ou diretamente o Google Colab/Jupyter Notebook.
+Certifique-se de ter o Python 3.x instalado. Recomenda-se a utilização de um ambiente virtual ou diretamente pelo Google Colab/Jupyter Notebook.
 
 As bibliotecas necessárias para rodar o projeto são:
 * `pandas`
