@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do Tech Challenge da pós-graduação e
 
 ## Objetivo do Projeto
 
-Este projeto visa realizar uma Análise Exploratória de Dados (EDA) focada em negócio para:
+Este projeto visa realizar uma Análise Exploratória de Dados (EDA) focada em negócio para entender:
 1. Quais fatores parecem mais críticos para a satisfação? 
 2. O que mais gera detratores? 
 3. Existe algum “ponto de ruptura” na experiência do cliente? 
